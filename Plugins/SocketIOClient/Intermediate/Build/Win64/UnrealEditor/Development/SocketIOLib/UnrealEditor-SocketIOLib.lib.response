@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SocketIOLib.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.obj"
+"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.obj"
+"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Default.rc2.res"
+/OUT:"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\UnrealEditor-SocketIOLib.lib"
