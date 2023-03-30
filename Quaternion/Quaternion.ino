@@ -9,27 +9,27 @@
 #include "Streaming.h" 
 
 #define BNO055_DELAY_MS (100)
-#define WIFI_NETWORK "WiFi-B8E1"
-#define WIFI_PASSWORD "25571806"
+#define WIFI_NETWORK "WiFi-PVRCK"
+#define WIFI_PASSWORD "123456789"
 #define WIFI_TIMEOUT_MS 20000
 #define SERVER "192.168.1.121"
 #define PORT 3002
 
 const int MAX_ANALOG_VAL = 4095;
-const float MAX_BATTERY_VOLTAGE = 4.2; // Max LiPoly voltage of a 3.7 battery is 4.2
+const float MAX_BATTERY_VOLTAGE = 4.2; // El voltaje LiPoly máximo de una batería 3.7 es 4.2
 
 Adafruit_BNO055 sensor = Adafruit_BNO055();
-float roll = 0; // Complementary filter variable
-float pitch = 0; // Complementary filter variable
-float yaw = 0; // New Yaw measurement angle based on mangetometer
+float roll = 0; // Ángulo de medición de balanceo basado en mangetómetro
+float pitch = 0; // Ángulo de medición de cabeceo basado en mangetómetro
+float yaw = 0; // Ángulo de medición de guiñada basado en mangetómetro
 
-String json; // Hold json string
-AsyncUDP udpClient; // Async UDPClient object
+String json; // Mantener json string
+AsyncUDP udpClient; // Async UDPClient objeto
 
 bool isCal = false;
 
 void connectToWiFi (){
-  Serial.print ("Connecting to WiFI");
+  Serial.print ("Conexión a WiFI");
   WiFi.mode (WIFI_STA);
   WiFi.begin (WIFI_NETWORK, WIFI_PASSWORD);
   unsigned long startAttemptTime = millis ();
@@ -38,35 +38,34 @@ void connectToWiFi (){
     delay(100);
   }
 
-  // TODO: Error Handling
+  // TODO: Tratamiento de errores
   if (WiFi.status () != WL_CONNECTED){
-    Serial.print ("Failed!");
+    Serial.print ("Fallido!");
   } else {
-    Serial.print ("Connected!");
+    Serial.print ("Conectado!");
     Serial.print (WiFi.localIP());
   }
 }
 
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(115200);
-  // Connect to WiFI first
+  // Conectarse primero a WiFI
   connectToWiFi ();
-  Serial.println ("I2C scanner. Scanning ...");
+  Serial.println ("I2C scaner. Scaneando ...");
   Wire.begin();
   byte i = 40;
   Wire.beginTransmission (i);
   if (Wire.endTransmission () == 0){
-    Serial.print ("Found address: ");
+    Serial.print ("Dirección Encontrada : ");
     Serial.print (i, DEC);
     Serial.print (" (0x");
     Serial.print (i, HEX);
     Serial.println (")");
-  } // end of good response
-  Serial.println ("Done.");
-  Serial.println (" device(s).");
+  } // Posibles Repuestas
+  Serial.println ("Listo.");
+  Serial.println (" dispositivo(s).");
   if(!sensor.begin()){
-    Serial.print("Ooops, no BNO055 detected ... Check your wiring or I2C ADDR!");
+    Serial.print("Ooops, no se ha detectado BNO055 ... ¡Compruebe su cableado o I2C ADDR!");
     while(1);
   }
   delay(1000);
@@ -89,12 +88,12 @@ void loop() {
   
   Serial  << system << "," << accel << "," << gyro << "," << mg << "," << laccel.x() << "," << laccel.y() << "," << laccel.z() << endl;
   
-  // Check Battery  
+  // Revisar la Bateria  
   int rawValue = analogRead(A13);
-  // Reference voltage on ESP32 is 1.1V
-  float voltageLevel = (rawValue / 4095.0) * 2 * 1.1 * 3.3; // calculate voltage level
+  // El Voltaje de referencia en ESP32 es 1.1V
+  float voltageLevel = (rawValue / 4095.0) * 2 * 1.1 * 3.3; // calcular el nivel de tensión
   float batteryFraction = voltageLevel / MAX_BATTERY_VOLTAGE;
-  Serial.println((String)"Raw:" + rawValue + " Voltage:" + voltageLevel + "V Percent: " + (batteryFraction * 100) + "%");
+  Serial.println((String)"Sin procesar:" + rawValue + " Voltaje:" + voltageLevel + "V Porcentaje: " + (batteryFraction * 100) + "%");
 
   json = GetJSONString ("upperarm_l", pitch, roll, yaw);
   Serial.println(json);
@@ -124,7 +123,7 @@ void UDPConnect()
     IPAddress ipAddress = IPAddress();
     ipAddress.fromString(SERVER);
     udpClient.connect(ipAddress, PORT);   
-    Serial.println ("Server Connected");
+    Serial.println ("Servidor conectado");
 }
 
 void UDPSendData(String message)
@@ -134,7 +133,7 @@ void UDPSendData(String message)
     if (udpClient.connected()){
       udpClient.broadcastTo(charBuffer, PORT);
     } else {
-      Serial.println ("Server Not Connected");
+      Serial.println ("Servidor NO conectado");
       UDPConnect();
     }
 }
