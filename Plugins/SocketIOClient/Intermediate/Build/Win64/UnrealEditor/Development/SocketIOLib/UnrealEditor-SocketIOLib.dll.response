@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.obj"
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.obj"
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Default.rc2.res"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.obj"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.obj"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Default.rc2.res"
 "ThirdParty\OpenSSL\1.1.1n\lib\Win64\VS2015\Release\libssl.lib"
 "ThirdParty\OpenSSL\1.1.1n\lib\Win64\VS2015\Release\libcrypto.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
@@ -66,7 +66,7 @@
 "dwmapi.lib"
 "imm32.lib"
 "crypt32.lib"
-/OUT:"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Binaries\Win64\UnrealEditor-SocketIOLib.dll"
-/IMPLIB:"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\UnrealEditor-SocketIOLib.suppressed.lib"
-/PDB:"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Binaries\Win64\UnrealEditor-SocketIOLib.pdb"
+/OUT:"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Binaries\Win64\UnrealEditor-SocketIOLib.dll"
+/IMPLIB:"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\UnrealEditor-SocketIOLib.suppressed.lib"
+/PDB:"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Binaries\Win64\UnrealEditor-SocketIOLib.pdb"
 /ignore:4078

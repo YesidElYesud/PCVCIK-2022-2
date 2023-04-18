@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-SocketIOClient.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\Module.SocketIOClient.cpp.obj"
-"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\Default.rc2.res"
-/OUT:"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\UnrealEditor-SocketIOClient.lib"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\Module.SocketIOClient.cpp.obj"
+"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\Default.rc2.res"
+/OUT:"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOClient\UnrealEditor-SocketIOClient.lib"

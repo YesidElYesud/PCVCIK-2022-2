@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\yesid\\Downloads\\Plugins\\SocketIOClient\\501\\HostProject\\Plugins\\SocketIOClient\\Source\\CoreUtility\\CoreUtility.Build.cs",
-		"C:\\Users\\yesid\\Downloads\\Plugins\\SocketIOClient\\501\\HostProject\\Plugins\\SocketIOClient\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
-		"C:\\Users\\yesid\\Downloads\\Plugins\\SocketIOClient\\501\\HostProject\\Plugins\\SocketIOClient\\Source\\SIOJson\\SIOJson.Build.cs",
-		"C:\\Users\\yesid\\Downloads\\Plugins\\SocketIOClient\\501\\HostProject\\Plugins\\SocketIOClient\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
-		"C:\\Users\\yesid\\Downloads\\Plugins\\SocketIOClient\\501\\HostProject\\Plugins\\SocketIOClient\\Source\\SocketIOLib\\SocketIOLib.Build.cs"
+		"C:\\Users\\yesid\\OneDrive\\Imágenes\\Escritorio\\xd\\HostProject\\Plugins\\SocketIOClient\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\yesid\\OneDrive\\Imágenes\\Escritorio\\xd\\HostProject\\Plugins\\SocketIOClient\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"C:\\Users\\yesid\\OneDrive\\Imágenes\\Escritorio\\xd\\HostProject\\Plugins\\SocketIOClient\\Source\\SIOJson\\SIOJson.Build.cs",
+		"C:\\Users\\yesid\\OneDrive\\Imágenes\\Escritorio\\xd\\HostProject\\Plugins\\SocketIOClient\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"C:\\Users\\yesid\\OneDrive\\Imágenes\\Escritorio\\xd\\HostProject\\Plugins\\SocketIOClient\\Source\\SocketIOLib\\SocketIOLib.Build.cs"
 	],
-	"EngineVersion": "5.1.0"
+	"EngineVersion": "5.1.1"
 }

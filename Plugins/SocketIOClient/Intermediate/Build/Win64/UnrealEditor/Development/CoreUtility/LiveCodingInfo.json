@@ -2,9 +2,9 @@
 	"RemapUnityFiles": 
 	{
 		"Module.CoreUtility.cpp.obj": [
-			"CoreUtility.init.gen.cpp.obj",
 			"CUBlueprintLibrary.gen.cpp.obj",
 			"CUFileComponent.gen.cpp.obj",
+			"CoreUtility.init.gen.cpp.obj",
 			"CUBlueprintLibrary.cpp.obj",
 			"CUFileComponent.cpp.obj",
 			"CULambdaRunnable.cpp.obj",

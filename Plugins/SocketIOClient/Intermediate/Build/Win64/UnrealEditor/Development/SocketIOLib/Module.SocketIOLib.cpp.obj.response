@@ -1,10 +1,10 @@
-C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp
+C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp
 /I .
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Private
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\ThirdParty\websocketpp
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Private
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\ThirdParty\websocketpp
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -275,8 +275,8 @@ C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIO
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
 /I ThirdParty\OpenSSL\1.1.1n\include\Win64\VS2015
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source
-/I C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Public
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source
+/I C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Source\SocketIOLib\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -286,12 +286,12 @@ C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIO
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h"
-/FI"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Definitions.SocketIOLib.h"
-/Yu"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h"
-/Fp"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.pch"
-/Fo"C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.obj"
-/sourceDependencies C:\Users\yesid\Downloads\Plugins\SocketIOClient\501\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.dep.json
+/FI"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h"
+/FI"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Definitions.SocketIOLib.h"
+/Yu"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h"
+/Fp"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.pch"
+/Fo"C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.obj"
+/sourceDependencies C:\Users\yesid\OneDrive\Imágenes\Escritorio\xd\HostProject\Plugins\SocketIOClient\Intermediate\Build\Win64\UnrealEditor\Development\SocketIOLib\Module.SocketIOLib.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
