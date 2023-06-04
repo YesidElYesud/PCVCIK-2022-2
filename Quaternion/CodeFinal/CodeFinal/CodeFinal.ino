@@ -16,19 +16,29 @@
 #define PORT 3002
 
 // Declaración de variables
+// Variables del filtro de Kalman
+float dt = 0.01; // Intervalo de tiempo entre mediciones (segundos)
+float A[2][2] = {{1, -dt}, {0, 1}}; // Matriz de transición de estado
+float H[1][2] = {{1, 0}}; // Matriz de observación
+float Q[2][2] = {{0.001, 0}, {0, 0.001}}; // Matriz de ruido del proceso
+float R[1][1] = {{0.5}}; // Matriz de ruido de la medición
+float P[2][2] = {{1, 0}, {0, 1}}; // Matriz de covarianza inicial
+float x[2] = {0, 0}; // Estado inicial (ángulo y velocidad angular)
+
 // Periodo de muestro
 double t, t0 = 0;
-const float Ts = 1; //Periodo de muestreo en microsegundos
+const float Ts = 50000; //Periodo de muestreo en microsegundos
 
 // Botones
 const int botonA = 12;
 const int botonB = 14;
 const int botonC = 27;
 const int botonD = 26;
-int A = 0;
-int B = 0;
-int C = 0;
-int D = 0;
+int Ab = 0;
+int Bb = 0;
+int Cb = 0;
+int Db = 0;
+
 
 // Nivel Bateria
 const int MAX_ANALOG_VAL = 4095;
@@ -85,12 +95,14 @@ void setup() {
 
   // Inicio sistema
   currentState = Inicio;
+
+  // Inicio periodo de muestreo
+  t0 = micros();
 }
 
 void loop() {
-  //t = micros();
-  updateStateMachine();
-
+  t = micros();
+  //updateStateMachine();
   if (t < t0)
   {
     t0 = 0;
@@ -98,7 +110,10 @@ void loop() {
   
   if (t - t0 >= Ts)
   {   
-    //updateStateMachine();  
+    updateStateMachine();
+    Serial.print("Ts: "); 
+    Serial.print((t - t0)/1000); 
+    Serial.println("[ms]");  
     t0 = t;        
   } 
 
@@ -200,7 +215,7 @@ void outputLectura()
 
 void outputProcesamiento()
 { 
-  json = GetJSONString ("Sensor", pitch, roll, yaw, A, B, C, D);
+  json = GetJSONString ("Sensor", pitch, roll, yaw, Ab, Bb, Cb, Db);
   Serial.println(json);
   proceso = 2;
 }
@@ -261,10 +276,10 @@ void protocoI2C (){
 }
 
 void LecturaBotones (){
-  A = digitalRead(botonA);
-  B = digitalRead(botonB);
-  C = digitalRead(botonC);
-  D = digitalRead(botonD);
+  Ab = digitalRead(botonA);
+  Bb = digitalRead(botonB);
+  Cb = digitalRead(botonC);
+  Db = digitalRead(botonD);
   leidoBoton = true;
 }
 
@@ -294,7 +309,7 @@ void bateriaRevision (){
   Serial.println((String)"Sin procesar:" + rawValue + " Voltaje:" + voltageLevel + "V Porcentaje: " + (batteryFraction * 100) + "%");
 }
 
-String GetJSONString(String sensorName, float pitch, float roll, float yaw, int A, int B, int C,int D) 
+String GetJSONString(String sensorName, float pitch, float roll, float yaw, int Ab, int Bb, int Cb,int Db) 
 {
     DynamicJsonDocument doc(1024);
     doc["name"] = sensorName;
@@ -303,10 +318,10 @@ String GetJSONString(String sensorName, float pitch, float roll, float yaw, int 
     orientation["pitch"] = pitch;
     orientation["roll"] = roll;
     orientation["yaw"] = yaw;
-    orientation["A"] = A;
-    orientation["B"] = B;
-    orientation["C"] = C;
-    orientation["D"] = D;
+    orientation["A"] = Ab;
+    orientation["B"] = Bb;
+    orientation["C"] = Cb;
+    orientation["D"] = Db;
     doc["orientation"] = orientation;
     char docBuf[1024];
     serializeJson(doc, docBuf);
@@ -331,4 +346,44 @@ void UDPSendData(String message)
       Serial.println ("Servidor NO conectado");
       UDPConnect();
     }
+}
+
+// Función de multiplicación de matrices
+void matmul(float A[][2], float B[][2], float C[][2], int m, int n, int p) {
+  for (int i = 0; i < m; i++) {
+    for (int j = 0; j < p; j++) {
+      C[i][j] = 0;
+      for (int k = 0; k < n; k++) {
+        C[i][j] += A[i][k] * B[k][j];
+      }
+    }
+  }
+}
+
+// Función de actualización del filtro de Kalman
+void kalman_update(float Z) {
+  // Paso de predicción
+  float x_pred[2] = {A[0][0] * x[0] + A[0][1] * x[1], A[1][0] * x[0] + A[1][1] * x[1]};
+  float P_pred[2][2];
+  float A_P[2][2];
+  matmul(A, P, A_P, 2, 2, 2);
+  
+  // Calcular la traspuesta de A
+  float A_T[2][2] = {{A[0][0], A[1][0]}, {A[0][1], A[1][1]}};
+  
+  // Calcular P_pred = A * P * A^T + Q
+  matmul(A_P, A_T, P_pred, 2, 2, 2);
+  P_pred[0][0] += Q[0][0]; P_pred[0][1] += Q[0][1];
+  P_pred[1][0] += Q[1][0]; P_pred[1][1] += Q[1][1];
+
+  // Paso de actualización
+  float y = Z - (H[0][0] * x_pred[0] + H[0][1] * x_pred[1]);
+  float S = H[0][0] * P_pred[0][0] * H[0][0] + H[0][1] * P_pred[1][0] * H[0][0] + R[0][0];
+  float K[2] = {P_pred[0][0] * H[0][0] / S, P_pred[1][0] * H[0][0] / S};
+  x[0] = x_pred[0] + K[0] * y;
+  x[1] = x_pred[1] + K[1] * y;
+  P[0][0] = P_pred[0][0] - K[0] * P_pred[0][0];
+  P[0][1] = P_pred[0][1] - K[0] * P_pred[0][1];
+  P[1][0] = P_pred[1][0] - K[1] * P_pred[1][0];
+  P[1][1] = P_pred[1][1] - K[1] * P_pred[1][1];
 }
