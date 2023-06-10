@@ -268,7 +268,7 @@ namespace sio
     bool packet::parse_buffer(const string& buf_payload)
     {
         if (_pending_buffers > 0) {
-            assert(is_binary_message(buf_payload));//this is ensured by outside.
+            //assert(is_binary_message(buf_payload));//this is ensured by outside.
             _buffers.push_back(std::make_shared<string>(buf_payload.data(), buf_payload.size()));
             _pending_buffers--;
             if (_pending_buffers == 0) {
@@ -504,15 +504,14 @@ namespace sio
                     break;
                 }
             }
-            else if (packet::is_binary_message(payload))
+
+            //In current socket.io version, it doesn't appear binary payloads come with a frame message.
+            else if (m_partial_packet && payload.size() > 0)
             {
-                if (m_partial_packet)
+                if (!m_partial_packet->parse_buffer(payload))
                 {
-                    if (!m_partial_packet->parse_buffer(payload))
-                    {
-                        p = std::move(m_partial_packet);
-                        break;
-                    }
+                    p = std::move(m_partial_packet);
+                    break;
                 }
             }
             else

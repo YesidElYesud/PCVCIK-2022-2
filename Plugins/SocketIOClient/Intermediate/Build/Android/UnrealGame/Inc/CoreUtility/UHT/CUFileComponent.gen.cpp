@@ -118,6 +118,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ExternalSaveDirectory_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** External storage in android context, otherwise uses project saved directory*/" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "External storage in android context, otherwise uses project saved directory" },
 	};
@@ -153,6 +155,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ProjectContentsDirectory_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** Get the current project contents directory path*/" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "Get the current project contents directory path" },
 	};
@@ -188,6 +192,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ProjectDirectory_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** Get the current project directory path*/" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "Get the current project directory path" },
 	};
@@ -234,6 +240,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ProjectRelativePath_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 	};
 #endif
@@ -268,6 +276,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ProjectSavedDirectory_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** Get the current project saved directory path*/" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "Get the current project saved directory path" },
 	};
@@ -339,6 +349,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_ReadBytesFromFile_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** Read array of bytes from file at specified directory */" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "Read array of bytes from file at specified directory" },
 	};
@@ -428,6 +440,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 		{ "Category", "FileUtility" },
 		{ "Comment", "/** Save array of bytes to file at specified directory */" },
 		{ "CPP_Default_bLogSave", "false" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 		{ "ToolTip", "Save array of bytes to file at specified directory" },
 	};
@@ -478,6 +492,8 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUFileComponent_SplitFullPath_Statics::Function_MetaDataParams[] = {
 		{ "Category", "FileUtility" },
+		{ "DeprecatedFunction", "" },
+		{ "DeprecationMessage", "UCUFileComponent has been deprecated, Please use the same functions from UCUFileSubsystem. This component will be removed in the next stable version." },
 		{ "ModuleRelativePath", "Public/CUFileComponent.h" },
 	};
 #endif
@@ -511,14 +527,14 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_CoreUtility,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UCUFileComponent_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UCUFileComponent_ExternalSaveDirectory, "ExternalSaveDirectory" }, // 1566260925
-		{ &Z_Construct_UFunction_UCUFileComponent_ProjectContentsDirectory, "ProjectContentsDirectory" }, // 4120786401
-		{ &Z_Construct_UFunction_UCUFileComponent_ProjectDirectory, "ProjectDirectory" }, // 1959308261
-		{ &Z_Construct_UFunction_UCUFileComponent_ProjectRelativePath, "ProjectRelativePath" }, // 579432600
-		{ &Z_Construct_UFunction_UCUFileComponent_ProjectSavedDirectory, "ProjectSavedDirectory" }, // 2556225789
-		{ &Z_Construct_UFunction_UCUFileComponent_ReadBytesFromFile, "ReadBytesFromFile" }, // 1078335427
-		{ &Z_Construct_UFunction_UCUFileComponent_SaveBytesToFile, "SaveBytesToFile" }, // 1532341214
-		{ &Z_Construct_UFunction_UCUFileComponent_SplitFullPath, "SplitFullPath" }, // 3619720708
+		{ &Z_Construct_UFunction_UCUFileComponent_ExternalSaveDirectory, "ExternalSaveDirectory" }, // 4240438022
+		{ &Z_Construct_UFunction_UCUFileComponent_ProjectContentsDirectory, "ProjectContentsDirectory" }, // 2422549258
+		{ &Z_Construct_UFunction_UCUFileComponent_ProjectDirectory, "ProjectDirectory" }, // 505407319
+		{ &Z_Construct_UFunction_UCUFileComponent_ProjectRelativePath, "ProjectRelativePath" }, // 3316939038
+		{ &Z_Construct_UFunction_UCUFileComponent_ProjectSavedDirectory, "ProjectSavedDirectory" }, // 187266264
+		{ &Z_Construct_UFunction_UCUFileComponent_ReadBytesFromFile, "ReadBytesFromFile" }, // 3883373651
+		{ &Z_Construct_UFunction_UCUFileComponent_SaveBytesToFile, "SaveBytesToFile" }, // 802011238
+		{ &Z_Construct_UFunction_UCUFileComponent_SplitFullPath, "SplitFullPath" }, // 1292979347
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UCUFileComponent_Statics::Class_MetaDataParams[] = {
@@ -562,15 +578,15 @@ void EmptyLinkFunctionForGeneratedCodeCUFileComponent() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UCUFileComponent);
 	UCUFileComponent::~UCUFileComponent() {}
-	struct Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UCUFileComponent, UCUFileComponent::StaticClass, TEXT("UCUFileComponent"), &Z_Registration_Info_UClass_UCUFileComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCUFileComponent), 3106050250U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UCUFileComponent, UCUFileComponent::StaticClass, TEXT("UCUFileComponent"), &Z_Registration_Info_UClass_UCUFileComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCUFileComponent), 3139611682U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_3224595291(TEXT("/Script/CoreUtility"),
-		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_1783820563(TEXT("/Script/CoreUtility"),
+		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUFileComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

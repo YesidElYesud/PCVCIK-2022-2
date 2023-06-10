@@ -1,4 +1,4 @@
-C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/CoreUtility/Module.CoreUtility.cppa8.o: \
+C:/Users/yesid/OneDrive/Documentos/GitHub/PCVCIK-2022-2/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/CoreUtility/Module.CoreUtility.cppa8.o: \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\Engine\UHT\SoundWave.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\AudioExtensions\UHT\IWaveformTransformation.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\AudioExtensions\Public\IWaveformTransformation.h \
@@ -1590,7 +1590,7 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\Platform.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\ContainersFwd.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
@@ -1780,79 +1780,22 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bitset \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bit_reference \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cmath \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\CoreUtility\Module.CoreUtility.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\CoreUtility\Module.CoreUtility.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\CoreUtility\Definitions.CoreUtility.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\CoreUtility\UHT\CoreUtility.init.gen.cpp \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\GeneratedCppIncludes.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\CoreUtility\UHT\CUBlueprintLibrary.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUBlueprintLibrary.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Kismet\BlueprintFunctionLibrary.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\Future.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Sound\SoundWaveProcedural.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\ThreadSafeCounter.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\ObjectMacros.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\ThreadSafeBool.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\Queue.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Sound\SoundWave.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\Engine\UHT\SoundWaveProcedural.generated.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptMacros.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\CoreUtility\UHT\CUBlueprintLibrary.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\CoreUtility\Definitions.CoreUtility.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Private\CULambdaRunnable.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Public\CULambdaRunnable.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\LatentActionManager.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\CoreUtility\UHT\CUFileComponent.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUFileComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Components\ActorComponent.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\CoreUtility\UHT\CUFileComponent.generated.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\CUBlueprintLibrary.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUBlueprintLibrary.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\Array.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\ArrayView.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreTypes.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Templates\SharedPointer.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\ImageCore\Public\ImageCore.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleInterface.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleManager.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\Async.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\Texture2D.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\ThreadSafeBool.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\RHI\Public\RHI.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\FileHelper.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\OpusAudioInfo.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\AudioDecompress.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Stats\Stats.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\AsyncWork.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\ScopeLock.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\LowLevelMemTracker.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\ContentStreaming.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Launch\Resources\Version.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Developer\TargetPlatform\Public\Interfaces\IAudioFormat.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\Engine.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CULambdaRunnable.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\LatentActions.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\WeakObjectPtr.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUOpusCoder.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_types.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\libOpus\opus-1.3.1-12\include\opus_defines.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUMeasureTimer.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Hash\CityHash.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\CUFileComponent.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CUFileComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\PlatformFileManager.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\FileHelper.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\Paths.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Android\AndroidPlatformMisc.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\CULambdaRunnable.cpp \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\Async.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\CUMeasureTimer.cpp \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\Engine.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Private\CUMeasureTimer.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Public\CUMeasureTimer.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\PlatformTime.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\CUOpusCoder.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Private\FCoreUtility.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\ICoreUtility.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Private\FCoreUtility.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Public\ICoreUtility.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleManager.h

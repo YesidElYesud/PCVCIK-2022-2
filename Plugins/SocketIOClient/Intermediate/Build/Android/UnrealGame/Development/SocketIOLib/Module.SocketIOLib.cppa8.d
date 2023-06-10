@@ -1,4 +1,4 @@
-C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/SocketIOLib/Module.SocketIOLib.cppa8.o: \
+C:/Users/yesid/OneDrive/Documentos/GitHub/PCVCIK-2022-2/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/SocketIOLib/Module.SocketIOLib.cppa8.o: \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\Engine\UHT\SoundWave.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\AudioExtensions\UHT\IWaveformTransformation.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\AudioExtensions\Public\IWaveformTransformation.h \
@@ -1590,7 +1590,7 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\Platform.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\ContainersFwd.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.RTTI.Exceptions.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.RTTI.Exceptions.ShadowErrors.InclOrderUnreal5_0.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
@@ -1780,24 +1780,24 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bitset \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bit_reference \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cmath \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOLib\Module.SocketIOLib.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.RTTI.Exceptions.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOLib\Module.SocketIOLib.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.RTTI.Exceptions.ShadowErrors.InclOrderUnreal5_0.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOLib\Definitions.SocketIOLib.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_client_impl.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_client_impl.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOLib\Definitions.SocketIOLib.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_client_impl.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_client_impl.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdint \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\client.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\roles\client_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\connection.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\close.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\client.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\roles\client_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\connection.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\close.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\error.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\exception \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\cpp11.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\system_error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\network.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\cpp11.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\system_error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\network.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\netinet\in.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\endian.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\endian.h \
@@ -1827,16 +1827,16 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\swab.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\asm-generic\swab.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\ipv6.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\stdint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\utf8_validator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\frame.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\utilities.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\utilities_impl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\logger\levels.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\processor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\uri.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\memory.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\stdint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\utf8_validator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\frame.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\utilities.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\utilities_impl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\logger\levels.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\processor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\uri.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\memory.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\memory \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\sstream \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
@@ -1849,11 +1849,11 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__split_buffer \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__functional_base \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__debug \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\base\connection.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\connection_hdl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\functional.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\base\connection.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\connection_hdl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\functional.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\functional \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\constants.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\constants.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\map \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__tree \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iterator \
@@ -1862,61 +1862,61 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\queue \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\deque \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\connection_impl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi00.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\md5.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\connection_impl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi00.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\md5.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\stddef.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\platforms.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi07.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi08.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi13.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\sha1\sha1.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\base64\base64.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\version.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\endpoint_impl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\config.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\platforms.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi07.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi08.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\processors\hybi13.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\sha1\sha1.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\base64\base64.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\version.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\impl\endpoint_impl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\config.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\api-level.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\string_view \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\version.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_waitable_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_waitable_timer.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstddef \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_io_object.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_io_object.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\typeinfo \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\async_result.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\type_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_type.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\push_options.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\pop_options.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\noncopyable.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wrapped_handler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\bind_handler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_allocator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\is_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\executor_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\fenced_block.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\std_fenced_block.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\async_result.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\type_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_type.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\push_options.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\pop_options.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\noncopyable.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wrapped_handler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\bind_handler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_allocator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\is_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\executor_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\fenced_block.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\std_fenced_block.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\atomic \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_alloc_helpers.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\memory.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\recycling_allocator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\call_stack.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\tss_ptr.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_tss_ptr.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_alloc_helpers.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\memory.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\recycling_allocator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\call_stack.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\tss_ptr.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_tss_ptr.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\pthread.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_tss_ptr.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\throw_error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error_code.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\error_code.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_tss_ptr.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\throw_error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error_code.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\error_code.ipp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cerrno \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\local_free_on_block_exit.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_types.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\local_free_on_block_exit.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_types.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\ioctl.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\ioctl.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\aarch64-linux-android\asm\ioctl.h \
@@ -1945,96 +1945,96 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\if.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\hdlc\ioctl.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\limits.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\throw_error.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\throw_exception.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\error.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_info_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_alloc_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\handler_alloc_hook.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_invoke_helpers.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_invoke_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler_operation.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_tracking.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\handler_tracking.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\op_queue.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\global.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_global.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\execution_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\variadic_templates.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\execution_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_type_requirements.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scoped_ptr.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\service_registry.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\mutex.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_mutex.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scoped_lock.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_mutex.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\service_registry.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\service_registry.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\execution_context.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\atomic_count.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\conditionally_enabled_event.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\conditionally_enabled_mutex.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\event.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_event.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\assert.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_event.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\null_event.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\null_event.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\scheduler.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\concurrency_hint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\limits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\epoll_reactor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\object_pool.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\operation.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\select_interrupter.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\eventfd_select_interrupter.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\eventfd_select_interrupter.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\throw_error.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\throw_exception.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\error.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_info_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_alloc_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\handler_alloc_hook.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_invoke_helpers.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_invoke_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler_operation.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_tracking.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\handler_tracking.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\op_queue.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\global.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_global.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\execution_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\variadic_templates.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\execution_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_type_requirements.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scoped_ptr.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\service_registry.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\mutex.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_mutex.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scoped_lock.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_mutex.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\service_registry.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\service_registry.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\execution_context.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\atomic_count.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\conditionally_enabled_event.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\conditionally_enabled_mutex.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\event.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_event.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\assert.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_event.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\null_event.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\null_event.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\scheduler.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\concurrency_hint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\limits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\epoll_reactor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\object_pool.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactor_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\operation.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\select_interrupter.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\eventfd_select_interrupter.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\eventfd_select_interrupter.ipp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\eventfd.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\cstdint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_set.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\timer_queue_set.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wait_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\epoll_reactor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\epoll_reactor.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\cstdint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_set.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\timer_queue_set.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wait_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\epoll_reactor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\epoll_reactor.ipp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\epoll.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\linux\eventpoll.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\bits\epoll_event.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler_thread_info.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_group.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_thread.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_thread.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_context.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_cont_helpers.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_continuation_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\chrono.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\scheduler_thread_info.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread_group.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\thread.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_thread.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\posix_thread.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\system_context.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_cont_helpers.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_continuation_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\chrono.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\chrono \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\io_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\completion_handler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_work.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\io_context.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\wait_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\chrono_time_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\deadline_timer_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_ops.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\socket_ops.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\io_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\completion_handler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\handler_work.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\io_context.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\wait_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\chrono_time_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\deadline_timer_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_ops.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\socket_ops.ipp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdio \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\date_time_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_ptime.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_scheduler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_scheduler_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wait_handler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\date_time_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_queue_ptime.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_scheduler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\timer_scheduler_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\wait_handler.hpp \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\hmac.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\opensslconf.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\opensslv.h \
@@ -2057,338 +2057,338 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\bn.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\bnerr.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\objectserr.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\asio_client.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\core_client.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\concurrency\basic.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\thread.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\asio_client.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\core_client.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\concurrency\basic.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\thread.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\thread \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__mutex_base \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\tuple \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\mutex \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\condition_variable \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\base\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\connection.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\base\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\connection.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\iostream\base.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iostream \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\request.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\parser.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\parser.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\request.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\response.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\response.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\message_buffer\message.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\message_buffer\alloc.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\logger\basic.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\time.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\request.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\parser.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\parser.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\request.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\response.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\http\impl\response.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\message_buffer\message.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\message_buffer\alloc.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\logger\basic.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\time.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\ctime \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\iomanip \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__string \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\random\random_device.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\random.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\random\random_device.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\random.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\random \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\numeric \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\endpoint_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\connection_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\extensions\permessage_deflate\disabled.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\extensions\extension.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\connection.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\asio.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\version.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_allocator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\async_result.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_datagram_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\post.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\post.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\work_dispatcher.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor_work_guard.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\io_control.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_option.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\array_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\endpoint_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\connection_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\extensions\permessage_deflate\disabled.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\extensions\extension.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\connection.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\asio.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\version.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_allocator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\associated_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\async_result.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_datagram_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\post.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\post.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\work_dispatcher.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor_work_guard.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\io_control.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_option.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\array_fwd.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\array \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__tuple \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\string_view.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\is_buffer_sequence.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffer_sequence_adapter.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\buffer_sequence_adapter.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_null_buffers_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_accept_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_holder.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_connect_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recvfrom_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_sendto_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_service_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recv_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recvmsg_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_send_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_wait_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_socket_service_base.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_deadline_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_io_object.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_raw_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_seq_packet_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_serial_port.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_signal_set.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_acceptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_iostream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_streambuf.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_stream_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\steady_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_streambuf.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_stream_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_waitable_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\bind_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\uses_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffer_resize_guard.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffered_stream_storage.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\buffered_read_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\completion_condition.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\write.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\base_from_completion_cond.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\consuming_buffers.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\dependent_type.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\buffered_write_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffers_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\completion_condition.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\connect.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\connect.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\coroutine.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\datagram_socket_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\defer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\defer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\dispatch.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\dispatch.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error_code.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\execution_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\cstddef.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\executor_function.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\executor.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor_work_guard.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\detail\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\detail\impl\endpoint.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\datagram_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_datagram_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\raw_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_raw_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\seq_packet_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_seq_packet_socket.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\stream_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_iostream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_alloc_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_continuation_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_invoke_hook.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_type.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\high_resolution_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context_strand.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\strand_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_service.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_service_strand.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context_strand.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\array.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\winsock_init.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v4.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v4.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v6.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v6.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\bad_address_cast.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_range.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_range.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\bad_address_cast.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\impl\endpoint.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_entry.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_query.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_query_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_results.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolver_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_endpoint_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_query_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolver_service_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\resolver_service_base.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_entry.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_query.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\host_name.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\host_name.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\host_name.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\icmp.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\multicast.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\socket_option.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_query_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\tcp.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_acceptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\udp.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\unicast.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\v6_only.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_read_buffered.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_write_buffered.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\detail\endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\detail\impl\endpoint.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\connect_pair.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\basic_endpoint.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\datagram_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\stream_protocol.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\packaged_task.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\future.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\string_view.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\is_buffer_sequence.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffer_sequence_adapter.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\buffer_sequence_adapter.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_null_buffers_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_accept_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\socket_holder.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_connect_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recvfrom_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_sendto_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_service_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recv_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_recvmsg_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_socket_send_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_wait_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_socket_service_base.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_deadline_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_io_object.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_raw_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_seq_packet_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_serial_port.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_signal_set.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_acceptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_iostream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_streambuf.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_stream_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\steady_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_streambuf.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_stream_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_waitable_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\bind_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\uses_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffer_resize_guard.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\buffered_stream_storage.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\buffered_read_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_read_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\completion_condition.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\write.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\base_from_completion_cond.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\consuming_buffers.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\dependent_type.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\buffered_write_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffered_write_stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffers_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\completion_condition.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\connect.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\connect.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\coroutine.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\datagram_socket_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\defer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\defer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\dispatch.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\dispatch.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\error_code.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\execution_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\cstddef.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\executor_function.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\executor.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\executor_work_guard.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\detail\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\detail\impl\endpoint.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\datagram_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_datagram_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\raw_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_raw_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\seq_packet_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_seq_packet_socket.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\generic\stream_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_iostream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_alloc_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_continuation_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_invoke_hook.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\handler_type.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\high_resolution_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context_strand.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\strand_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_service.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_service_strand.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\io_context_strand.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\array.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\winsock_init.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v4.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v4.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v6.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address_v6.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\bad_address_cast.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\address.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_range.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v4_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_range.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\address_v6_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\bad_address_cast.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\impl\endpoint.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_entry.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_query.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_query_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_results.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolver_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_endpoint_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolve_query_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\resolver_service_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\resolver_service_base.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_entry.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver_query.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\host_name.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\impl\host_name.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\host_name.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\icmp.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\basic_resolver.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\multicast.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\detail\socket_option.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_query_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\resolver_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\tcp.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_socket_acceptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\udp.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\unicast.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ip\v6_only.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_read_buffered.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\is_write_buffered.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\detail\endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\detail\impl\endpoint.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\connect_pair.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\basic_endpoint.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\datagram_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\local\stream_protocol.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\packaged_task.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\future.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\future \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\placeholders.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\basic_descriptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\basic_stream_descriptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_descriptor_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_ops.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\descriptor_ops.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_read_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_write_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_descriptor_service.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\stream_descriptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\stream_descriptor_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\post.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\raw_socket_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read_at.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read_at.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read_until.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\regex_fwd.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read_until.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffers_iterator.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\seq_packet_socket_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\placeholders.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\basic_descriptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\basic_stream_descriptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_descriptor_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_ops.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\descriptor_ops.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_read_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\descriptor_write_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_descriptor_service.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\stream_descriptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\descriptor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\posix\stream_descriptor_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\post.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\raw_socket_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read_at.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read_at.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\read_until.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\regex_fwd.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\read_until.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\buffers_iterator.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\seq_packet_socket_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_base.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\termios.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\android\legacy_termios_inlines.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\serial_port_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\serial_port_base.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_serial_port_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_serial_port_service.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\signal_set.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_set_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_handler.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\signal_set_service.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_blocker.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_signal_blocker.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\serial_port_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\serial_port_base.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\reactive_serial_port_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\reactive_serial_port_service.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\serial_port_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\signal_set.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_set_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_handler.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\signal_set_service.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\signal_blocker.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_signal_blocker.hpp \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\csignal \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\static_mutex.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_static_mutex.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\signal_set_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_acceptor_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\steady_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\strand.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\strand_executor_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_executor_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_executor_service.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\stream_socket_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\streambuf.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread_pool.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\thread_pool.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\thread_pool.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread_pool.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\time_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\use_future.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\use_future.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\packaged_task.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\uses_executor.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\version.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\wait_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\waitable_timer_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_object_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_random_access_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_stream_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\object_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\object_handle_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_ptr.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\random_access_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\random_access_handle_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\stream_handle.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\stream_handle_service.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write_at.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\write_at.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\chrono.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\type_traits.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\none.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\tls.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\asio_ssl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\context_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\openssl_types.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\static_mutex.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\posix_static_mutex.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\signal_set_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_acceptor_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\socket_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\steady_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\strand.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\strand_executor_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_executor_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\detail\impl\strand_executor_service.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\stream_socket_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\streambuf.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\basic_streambuf.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\system_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread_pool.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\thread_pool.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\thread_pool.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\thread_pool.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\time_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\use_future.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\use_future.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\packaged_task.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\uses_executor.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\version.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\wait_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\waitable_timer_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_object_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_random_access_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\basic_stream_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\object_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\object_handle_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_ptr.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\random_access_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\overlapped_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\random_access_handle_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\stream_handle.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\windows\stream_handle_service.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\write_at.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\impl\write_at.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\chrono.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\type_traits.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\none.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\transport\asio\security\tls.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\common\asio_ssl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\context_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\openssl_types.hpp \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\conf.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\lhash.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\conferr.h \
@@ -2433,73 +2433,37 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\engineerr.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\x509v3.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\ThirdParty\OpenSSL\1.1.1n\include\Android\openssl\x509v3err.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\openssl_init.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\impl\openssl_init.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\password_callback.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\verify_callback.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\verify_context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\verify_mode.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\context.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\context.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\error.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\error.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\rfc2818_verification.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\rfc2818_verification.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\stream.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\buffered_handshake_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\engine.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\stream_base.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\impl\engine.ipp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\handshake_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\io.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\stream_core.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\read_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\shutdown_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\write_op.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\asio_no_tls_client.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer.hpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_client.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_packet.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_packet.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\document.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\reader.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\allocators.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\rapidjson.h \
-  C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\inttypes.h \
-  C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\local\include\inttypes.h \
-  C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\9.0.9\include\inttypes.h \
-  C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\inttypes.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\stream.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\encodings.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\encodedstream.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\memorystream.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\meta.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\..\rapidjson.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\stack.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\..\allocators.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\swap.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\strtod.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\ieee754.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\biginteger.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\diyfp.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\pow10.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\error\error.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\error\..\rapidjson.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\strfunc.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\..\stream.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\writer.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\dtoa.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\internal\itoa.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\ThirdParty\rapidjson\include\rapidjson\stringbuffer.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\CString.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\sio_client.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\sio_socket.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h \
-  C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cstdarg \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Private\SocketIOLib.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\SocketIOLib.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\openssl_init.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\impl\openssl_init.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\password_callback.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\verify_callback.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\verify_context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\verify_mode.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\context.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\context.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\error.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\error.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\rfc2818_verification.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\impl\rfc2818_verification.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\stream.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\buffered_handshake_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\engine.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\stream_base.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\impl\engine.ipp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\handshake_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\io.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\stream_core.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\read_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\shutdown_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\ssl\detail\write_op.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\websocketpp\websocketpp\config\asio_no_tls_client.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\ThirdParty\asio\asio\include\asio\deadline_timer.hpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_client.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Private\internal\sio_packet.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Private\sio_client.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Private\SocketIOLib.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\SocketIOLib.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleManager.h

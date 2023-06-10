@@ -705,10 +705,10 @@ void EmptyLinkFunctionForGeneratedCodeCUBlueprintLibrary() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::Function_MetaDataParams[] = {
 		{ "BlueprintAutocast", "" },
 		{ "Category", "CoreUtility|Conversion" },
-		{ "Comment", "/**\n\x09*\x09""Audio compression - Convert opus (currently raw serialized) to pcm\n\x09*/" },
+		{ "Comment", "/**\n\x09*\x09""Audio decompression - Convert opus (currently raw serialized) to wav\n\x09*/" },
 		{ "DisplayName", "To Wav Bytes (Opus Bytes)" },
 		{ "ModuleRelativePath", "Public/CUBlueprintLibrary.h" },
-		{ "ToolTip", "Audio compression - Convert opus (currently raw serialized) to pcm" },
+		{ "ToolTip", "Audio decompression - Convert opus (currently raw serialized) to wav" },
 	};
 #endif
 	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UCUBlueprintLibrary, nullptr, "Conv_OpusBytesToWav", nullptr, nullptr, sizeof(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::CUBlueprintLibrary_eventConv_OpusBytesToWav_Parms), Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14422401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav_Statics::Function_MetaDataParams)) };
@@ -909,10 +909,10 @@ void EmptyLinkFunctionForGeneratedCodeCUBlueprintLibrary() {}
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::Function_MetaDataParams[] = {
 		{ "BlueprintAutocast", "" },
 		{ "Category", "CoreUtility|Conversion" },
-		{ "Comment", "/**\n\x09*\x09""Audio decompression - Convert wav to opus (currently raw serialized)\n\x09*/" },
+		{ "Comment", "/**\n\x09*\x09""Audio compression - Convert wav to opus (currently raw serialized)\n\x09*/" },
 		{ "DisplayName", "To Opus Bytes (Wav Bytes)" },
 		{ "ModuleRelativePath", "Public/CUBlueprintLibrary.h" },
-		{ "ToolTip", "Audio decompression - Convert wav to opus (currently raw serialized)" },
+		{ "ToolTip", "Audio compression - Convert wav to opus (currently raw serialized)" },
 	};
 #endif
 	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UCUBlueprintLibrary, nullptr, "Conv_WavBytesToOpus", nullptr, nullptr, sizeof(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::CUBlueprintLibrary_eventConv_WavBytesToOpus_Parms), Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14422401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus_Statics::Function_MetaDataParams)) };
@@ -1272,11 +1272,11 @@ void EmptyLinkFunctionForGeneratedCodeCUBlueprintLibrary() {}
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_BytesToTexture, "Conv_BytesToTexture" }, // 1952912162
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_CompactBytesToTransforms, "Conv_CompactBytesToTransforms" }, // 2642532528
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_CompactPositionBytesToTransforms, "Conv_CompactPositionBytesToTransforms" }, // 701991390
-		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav, "Conv_OpusBytesToWav" }, // 1380564726
+		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_OpusBytesToWav, "Conv_OpusBytesToWav" }, // 1362167320
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_SoundWaveToWavBytes, "Conv_SoundWaveToWavBytes" }, // 494662131
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_StringToBytes, "Conv_StringToBytes" }, // 3927817281
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_TextureToBytes, "Conv_TextureToBytes" }, // 258764319
-		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus, "Conv_WavBytesToOpus" }, // 2661646646
+		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToOpus, "Conv_WavBytesToOpus" }, // 3136016933
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_Conv_WavBytesToSoundWave, "Conv_WavBytesToSoundWave" }, // 2003763617
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_GetLoginId, "GetLoginId" }, // 3348935402
 		{ &Z_Construct_UFunction_UCUBlueprintLibrary_MeasureTimerStart, "MeasureTimerStart" }, // 3881759645
@@ -1325,20 +1325,20 @@ void EmptyLinkFunctionForGeneratedCodeCUBlueprintLibrary() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UCUBlueprintLibrary);
 	UCUBlueprintLibrary::~UCUBlueprintLibrary() {}
-	struct Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo[] = {
 		{ EImageFormatBPType_StaticEnum, TEXT("EImageFormatBPType"), &Z_Registration_Info_UEnum_EImageFormatBPType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1958437916U) },
 		{ ESIOCallbackType_StaticEnum, TEXT("ESIOCallbackType"), &Z_Registration_Info_UEnum_ESIOCallbackType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1557208721U) },
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UCUBlueprintLibrary, UCUBlueprintLibrary::StaticClass, TEXT("UCUBlueprintLibrary"), &Z_Registration_Info_UClass_UCUBlueprintLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCUBlueprintLibrary), 1752464376U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UCUBlueprintLibrary, UCUBlueprintLibrary::StaticClass, TEXT("UCUBlueprintLibrary"), &Z_Registration_Info_UClass_UCUBlueprintLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCUBlueprintLibrary), 2993851398U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_3588609594(TEXT("/Script/CoreUtility"),
-		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_122748997(TEXT("/Script/CoreUtility"),
+		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::ClassInfo),
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_Unreal_Projects_CarTemplate_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_yesid_OneDrive_Documentos_GitHub_PCVCIK_2022_2_Plugins_SocketIOClient_Source_CoreUtility_Public_CUBlueprintLibrary_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

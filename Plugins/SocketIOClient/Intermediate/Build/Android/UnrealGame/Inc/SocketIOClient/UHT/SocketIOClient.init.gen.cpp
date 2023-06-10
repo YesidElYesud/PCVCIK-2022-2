@@ -33,7 +33,7 @@ void EmptyLinkFunctionForGeneratedCodeSocketIOClient_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xB072CA84,
+				0xCB48E7AD,
 				0x2637AFC2,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -41,5 +41,5 @@ void EmptyLinkFunctionForGeneratedCodeSocketIOClient_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_SocketIOClient.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SocketIOClient(Z_Construct_UPackage__Script_SocketIOClient, TEXT("/Script/SocketIOClient"), Z_Registration_Info_UPackage__Script_SocketIOClient, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB072CA84, 0x2637AFC2));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SocketIOClient(Z_Construct_UPackage__Script_SocketIOClient, TEXT("/Script/SocketIOClient"), Z_Registration_Info_UPackage__Script_SocketIOClient, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xCB48E7AD, 0x2637AFC2));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,4 +1,4 @@
-C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/SocketIOClient/Module.SocketIOClient.cppa8.o: \
+C:/Users/yesid/OneDrive/Documentos/GitHub/PCVCIK-2022-2/Plugins/SocketIOClient/Intermediate/Build/Android/UnrealGame/Development/SocketIOClient/Module.SocketIOClient.cppa8.o: \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\Engine\UHT\SoundWave.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Intermediate\Build\Android\UnrealGame\Inc\AudioExtensions\UHT\IWaveformTransformation.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\AudioExtensions\Public\IWaveformTransformation.h \
@@ -1590,7 +1590,7 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\Platform.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\ContainersFwd.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\initializer_list \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\features.h \
@@ -1780,17 +1780,16 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\bitset \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__bit_reference \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\cmath \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOClient\Module.SocketIOClient.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOClient\Module.SocketIOClient.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Intermediate\Build\Android\CarTemplate\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOClient\Definitions.SocketIOClient.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SIOMessageConvert.gen.cpp \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\GeneratedCppIncludes.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SIOMessageConvert.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Development\SocketIOClient\Definitions.SocketIOClient.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Private\SIOMessageConvert.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SIOMessageConvert.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Dom\JsonValue.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Dom\JsonObject.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_client.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_client.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\vector \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\__config \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\type_traits \
@@ -1803,82 +1802,45 @@ C:/Users/yesid/OneDrive/Documentos/Unreal\ Projects/CarTemplate/Plugins/SocketIO
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\optional \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\c++\v1\new \
   C:\android-ndk-r21e\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\include\sys\cdefs.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJsonValue.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJsonValue.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Dom\JsonValue.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\Base64.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Templates\SharedPointer.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJsonValue.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJsonValue.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\ObjectMacros.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\ScriptMacros.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SIOMessageConvert.generated.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOClient.init.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOClientComponent.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClientComponent.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Components\ActorComponent.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIONative.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJsonObject.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Dom\JsonObject.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJsonObject.generated.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJConvert.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\Package.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJConvert.generated.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SIOMessageConvert.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\LatentActionManager.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOClientComponent.generated.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\LatentActionManager.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOFunctionLibrary.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOFunctionLibrary.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Kismet\BlueprintFunctionLibrary.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClientComponent.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOFunctionLibrary.generated.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIONative.gen.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIONative.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Private\SIOMessageConvert.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SIOMessageConvert.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SIOMessageConvert.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Serialization\JsonWriter.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Policies\CondensedJsonPrintPolicy.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIOClient.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClient.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIOClient.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClient.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleManager.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIONative.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\CoreUtility\Public\CULambdaRunnable.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIONative.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJsonObject.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Json\Public\Dom\JsonObject.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJsonObject.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJConvert.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\CoreMinimal.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\Package.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJConvert.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SIOMessageConvert.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\CoreUtility\Public\CULambdaRunnable.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\LatentActionManager.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Public\LatentActions.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\CoreUObject\Public\UObject\WeakObjectPtr.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\ThreadSafeBool.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIOClientComponent.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClientComponent.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJRequestJSON.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Delegates\Delegate.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\Http.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\Array.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\Map.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\UnrealString.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\PlatformMath.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\Interfaces\IHttpRequest.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\Interfaces\IHttpBase.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\CoreMisc.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Modules\ModuleInterface.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Templates\SharedPointer.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\Interfaces\IHttpResponse.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\Android\AndroidPlatformHttp.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform\GenericPlatformHttp.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\StringFwd.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\StringView.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\HAL\Platform.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Misc\Optional.h \
-  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Core\Public\Containers\Map.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIOFunctionLibrary.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOFunctionLibrary.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Kismet\BlueprintFunctionLibrary.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOClientComponent.h \
+  C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Components\ActorComponent.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIONative.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\LatentActionManager.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SIOJson\Public\SIOJTypes.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SIOJson\UHT\SIOJRequestJSON.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOClientComponent.generated.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Intermediate\Build\Android\UnrealGame\Inc\SocketIOClient\UHT\SocketIOFunctionLibrary.generated.h \
   C:\Program\ Files\Epic\ Games\UE_5.1\Engine\Source\Runtime\Engine\Classes\Engine\Engine.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIOFunctionLibrary.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Public\SocketIOFunctionLibrary.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIONative.cpp \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
-  C:\Users\yesid\OneDrive\Documentos\Unreal\ Projects\CarTemplate\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOClient\Private\SocketIONative.cpp \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_message.h \
+  C:\Users\yesid\OneDrive\Documentos\GitHub\PCVCIK-2022-2\Plugins\SocketIOClient\Source\SocketIOLib\Public\sio_socket.h
