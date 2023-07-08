@@ -32,10 +32,16 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "GraphPrinter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"Windows"
+		"Windows",
+		"HoloLens"
 	]
 }
