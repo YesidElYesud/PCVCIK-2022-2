@@ -16,3 +16,16 @@ El objetivo principal es desarrollar una solución accesible y de bajo costo par
 Ejecutable del juego para windows 
 
 https://github.com/YesidElYesud/PCVCIK-2022-2/releases/tag/ue5
+
+-----------------------------------------------------------------------------------------
+Anexos
+
+Link del video https://www.youtube.com/watch?v=WTq3cihyyJE
+
+Ejecutable del juego para windows https://github.com/YesidElYesud/PCVCIK-2022-2/releases/tag/ue5
+
+Link del libro https://drive.google.com/file/d/14DhTeFGc9uvb3RIyDJdlWWCws_8kGQcd/view?usp=sharing
+
+Link del Site de Google https://sites.google.com/e3t.uis.edu.co/pcvcik222/inicio
+
+Lin de Presentación  https://docs.google.com/presentation/d/1Fb_8u1o53WHOtNPu_97c_NpZpVyRNc3_VSmvXCB9BRQ/edit?usp=sharing
